@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Clase2_Practica.Servicios</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Clase2-Practica.Entidades\Clase2-Practica.Entidades.csproj" />
+  </ItemGroup>
+
+</Project>
