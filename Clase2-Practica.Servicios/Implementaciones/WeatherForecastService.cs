@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Clase2_Practica.Servicios.Implementacines
+namespace Clase2_Practica.Servicios.Implementaciones
 {
     public class WeatherForecastService : IWeatherForecastService
     {

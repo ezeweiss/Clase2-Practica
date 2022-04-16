@@ -11,7 +11,7 @@ namespace Clase2_Practica.Web.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class WeatherForecastController : ControllerBase
+    public class WeatherForecastController : Controller
     {
         
         private readonly ILogger<WeatherForecastController> _logger;

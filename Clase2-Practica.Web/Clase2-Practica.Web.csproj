@@ -13,4 +13,5 @@
     <ProjectReference Include="..\Clase2-Practica.Servicios\Clase2-Practica.Servicios.csproj" />
   </ItemGroup>
 
+<ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
 </Project>
